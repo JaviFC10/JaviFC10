@@ -1,8 +1,8 @@
-# Título 1
+# Javier Fuentes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id sodales magna. Nam sit amet tellus et ante semper feugiat. Suspendisse aliquam vitae nibh a imperdiet.
+Actualmente estudiando un bootcamp de Full Stack Developer en 4GeeksAcademy lleno de entusiasmo.
 
-Duis a enim pellentesque, aliquet turpis nec, vehicula nibh. Mauris ultricies magna felis. Nunc suscipit magna eros, eget malesuada ante convallis quis. Sed metus lacus, commodo at tincidunt ut, dapibus sed lectus. Curabitur et ornare arcu. Suspendisse congue leo nec ipsum congue cursus. Suspendisse consectetur lorem urna.
+### ¡Iré compartiendo mis avances! 
 
 
 
