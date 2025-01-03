@@ -70,7 +70,7 @@ Soy una persona curiosa y apasionada por la tecnología, con un enfoque especial
 
 - **Email:** jfuentescasta.m@gmail.com 
 - **LinkedIn:** [Javier Fuentes](https://linkedin.com/in/jfuentesweb)  
-- **GitHub:** [@javierfuentesdev](https://github.com/JaviFC10)
+- **GitHub:** [@JaviFC10](https://github.com/JaviFC10)
 
 ---
 
