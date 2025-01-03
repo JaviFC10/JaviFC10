@@ -28,9 +28,25 @@ Soy una persona curiosa y apasionada por la tecnología, con un enfoque especial
 
 ## 💼 Experiencia laboral
 
-- Finalista en un hackathon de desarrollo web, creando una aplicación en tiempo récord. 🏅
-- Proyecto destacado: "Gestor de Tareas con React y Node.js".
-- Participación activa en la comunidad de desarrolladores de 4GeeksAcademy.
+- **Senior Digital Analyst**  
+  Cícero Comunicación  
+  _(1018-actualidad)_
+
+- **Online Marketing Manager**  
+  Maguire Media  
+  _(1015-2018)_
+
+- **Producción audiovisual, Desarrollo Web y Community Management**  
+  Freelance  
+  _(1014-2015)_
+
+- **Redactor**  
+  El Cine en la Sombra  
+  _(1014-2015)_
+
+- **Online Marketing Manager y Productor de Vídeo**  
+  Natureh Web Consulting  
+  _(1013-2014)_
 
 ---
 
