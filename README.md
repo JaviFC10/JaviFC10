@@ -8,7 +8,7 @@ Actualmente inmerso en un emocionante bootcamp de Full Stack Developer, lleno de
 
 ## 🧑‍💻 Sobre mí
 
-Soy una persona curiosa y apasionada por la tecnología, con un enfoque especial en el aprendizaje continuo. Me encanta resolver problemas y crear soluciones que impacten positivamente a las personas.
+Soy una persona curiosa y apasionada por la tecnología, con un enfoque especial en el aprendizaje continuo.
 
 **Fortalezas:**
 - Resolución de problemas 💡
@@ -20,15 +20,13 @@ Soy una persona curiosa y apasionada por la tecnología, con un enfoque especial
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación:** JavaScript, Python
-- **Frameworks:** React, Node.js, Flask
-- **Bases de Datos:** MySQL, MongoDB
-- **Control de Versiones:** Git, GitHub
-- **Metodologías:** Agile, Scrum
+- **Lenguajes de Programación:** HTML, CSS, JavaScript.
+- **Herramientas de analítica digital:** Brandwatch, SemRush, Google Analytcs, Google Tag Manager.
+- **Otras habilidades:** edición de vídeo, community management, redacción de contenidos.
 
 ---
 
-## 🏆 Logros Recientes
+## 💼 Experiencia laboral
 
 - Finalista en un hackathon de desarrollo web, creando una aplicación en tiempo récord. 🏅
 - Proyecto destacado: "Gestor de Tareas con React y Node.js".
@@ -36,46 +34,33 @@ Soy una persona curiosa y apasionada por la tecnología, con un enfoque especial
 
 ---
 
-## 🎨 Portfolio
-
-📁 Aquí están algunos de los proyectos que he desarrollado durante mi aprendizaje:
-
-1. **Gestor de Tareas**  
-   _Aplicación para organizar tareas diarias con React y Node.js._  
-   [🔗 Ver proyecto](#)
-
-2. **Tienda Online**  
-   _E-commerce completamente funcional utilizando Flask y MySQL._  
-   [🔗 Ver proyecto](#)
-
----
-
 ## 📚 Educación
 
 - **Bootcamp de Full Stack Developer**  
   4GeeksAcademy  
-  _(Actual, 2025)_  
+  _(Actual, 2025)_
 
-- **Grado en Comunicación Audiovisual**  
-  Universidad de [Tu Ciudad]  
-  _(2018-2022)_
+- **Master en Comunicación Multimedia**  
+  Instituto Tracor
+  _(2012-2013)_
+  
+- **Licenciatura en Comunicación Audiovisual**  
+  Centro Universitario Villanueva
+  _(2015-2011)_
 
 ---
 
 ## 📫 ¡Contáctame!
 
-- **Email:** javier.fuentes@email.com  
-- **LinkedIn:** [Javier Fuentes](https://linkedin.com/in/javierfuentes)  
-- **GitHub:** [@javierfuentesdev](https://github.com/javierfuentesdev)
+- **Email:** jfuentescasta.m@gmail.com 
+- **LinkedIn:** [Javier Fuentes](https://linkedin.com/in/jfuentesweb)  
+- **GitHub:** [@javierfuentesdev](https://github.com/JaviFC10)
 
 ---
 
 _"¡Iré compartiendo mis avances y logros a medida que construyo mi camino en el desarrollo!"_
 
 ---
-
-### 🌈 **Personaliza esta plantilla**
-Puedes ajustar colores, emojis y secciones según tus preferencias. ¡Espero que te inspire para crear un CV impresionante! 😊
 
 
 
