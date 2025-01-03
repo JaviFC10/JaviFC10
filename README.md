@@ -62,7 +62,7 @@ Soy una persona curiosa y apasionada por la tecnología, con un enfoque especial
   
 - **Licenciatura en Comunicación Audiovisual**  
   Centro Universitario Villanueva
-  _(2015-2011)_
+  _(2005-2011)_
 
 ---
 
